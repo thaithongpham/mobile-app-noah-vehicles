@@ -6,8 +6,8 @@ import android.os.Bundle;
 
 import com.family.noahvehicles.R;
 
-public class MainActivity extends AppCompatActivity {
-
+public class ActivityMain extends AppCompatActivity {
+    // TFIX: delete me
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
